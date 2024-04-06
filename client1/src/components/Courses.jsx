@@ -5,13 +5,13 @@ const Courses = () => {
             <section className='courses'>
                 <div className='course-container'>
 
-                <center>
-      <p
-        style={{ fontSize: 50, padding: 100, paddingBottom: 40, color: "#fff" }}
-      >
-        Services
-      </p>
-    </center>
+                    <center>
+                        <p
+                            style={{ fontSize: 50, padding: 100, paddingBottom: 40, color: "#fff" }}
+                        >
+                            Services
+                        </p>
+                    </center>
 
                     <div className='content grid3'>
                         <div className='box'>

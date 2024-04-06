@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from '../components/Header'
 import ContactUs from '../components/ContactUs'
 import Courses from '../components/Courses'
 import About from './About'
@@ -9,6 +10,7 @@ import Feedback from '../components/Feedback'
 const Home = () => {
   return (
     <div>
+        <Header/>
       <Courses/>
       <About/>
       <Team/>

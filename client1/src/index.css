@@ -24,10 +24,10 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-header {
-	height: 90vh;
+/* header {
+	height: 2vh;
 	/* background: #000; */
-}
+ 
 .black {
 	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 }

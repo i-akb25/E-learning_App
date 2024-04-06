@@ -1,16 +1,11 @@
 import React from 'react'
-
-
 const Navbar = () => {
     return (
         <>
             <header id="header">
                 <nav>
-                    <div>
-                        <div className="logo">
-                            <img src="./images/icon/play.png" alt="" />
-                        </div>
-                        <p>ADHAYAN</p>
+                    <div className="logo">
+                        <p>RDR HOME TUTORIAL</p>
                     </div>
                     <ul>
                         <li>
@@ -18,7 +13,7 @@ const Navbar = () => {
                                 Home
                             </a>
                         </li>
-
+                        
                         <li>
                             <a href="#contactus_section">Study-materials</a>
                         </li>
@@ -31,7 +26,7 @@ const Navbar = () => {
                         <li>
                             <a href="#contactus_section">Know Yourself</a>
                         </li>
-
+                        
                     </ul>
                     <div className="srch">
                         <input type="text" className="search" placeholder="Search here..." />
@@ -57,24 +52,24 @@ const Navbar = () => {
                             research!
                         </h5>
                         <div className="play">
-                            <img src="https://tse1.mm.bing.net/th?id=OIP.z4ejyN7gKWRpAJyUVQrpiAHaHa&pid=Api&P=0&h=180g" alt="play" />
+                            <img src="../images/icon/play.png" alt="play" />
                             <span>
                                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-                                    Watch Now
+                                    Watch Now 
                                 </a>
                             </span>
                         </div>
                     </div>
                     <div className="svg-image">
-                        <img src="../../images/extra/svg1.jpg" alt="svg" />
+                        <img src="../images/extra/svg1.jpg" alt="svg" />
                     </div>
                 </div>
                 <div className="side-menu" id="side-menu">
                     <div className="close" onclick="sideMenu(1)">
-                        <img src="../../images/icon/close.png" alt="" />
+                        <img src="../images/icon/close.png" alt="" />
                     </div>
                     <div className="user">
-                        <img src="../../images/creator/roshan.jpeg" alt="Username" />
+                        <img src="../images/creator/roshan.jpeg" alt="Username" />
                     </div>
                     <ul>
                         <li>

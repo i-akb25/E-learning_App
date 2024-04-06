@@ -26,15 +26,15 @@ const ReviewByStud = () => {
     <div className="rev-container">
       <div className="rev-card">
         <div className="identity">
-          <img src="images/creator/humanNotExist1.jpg" />
+          <img src="../images/creator/humanNotExist1.jpg" />
           <p>Sophie Daniel</p>
           <h6>Java</h6>
           <div className="rating">
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
           </div>
         </div>
         <div className="rev-cont">
@@ -53,11 +53,11 @@ const ReviewByStud = () => {
           <p>Clayton Clair</p>
           <h6>C/C++</h6>
           <div className="rating">
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
           </div>
         </div>
         <div className="rev-cont">
@@ -72,15 +72,15 @@ const ReviewByStud = () => {
       </div>
       <div className="rev-card">
         <div className="identity">
-          <img src="images/creator/humanNotExist3.jpg" />
+          <img src="../images/creator/humanNotExist3.jpg" />
           <p>Devyn Sethi</p>
           <h6>IIT</h6>
           <div className="rating">
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
           </div>
         </div>
         <div className="rev-cont">
@@ -97,15 +97,15 @@ const ReviewByStud = () => {
       </div>
       <div className="rev-card">
         <div className="identity">
-          <img src="images/creator/humanNotExist4.jpg" />
+          <img src="../images/creator/humanNotExist4.jpg" />
           <p>Rylee Phillips</p>
           <h6>Python</h6>
           <div className="rating">
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
-            <img src="images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
           </div>
         </div>
         <div className="rev-cont">

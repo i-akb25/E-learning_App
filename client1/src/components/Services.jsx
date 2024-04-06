@@ -14,37 +14,37 @@ const Services = () => {
   </div>
   <a href="subjects/computer_courses.html">
     <div className="s-card">
-      <img src="images/icon/computer-courses.png" />
+      <img src="../images/icon/computer-courses.png" />
       <p>Free Online Computer Courses</p>
     </div>
   </a>
   <a href="subjects/jee.html">
     <div className="s-card">
-      <img src="images/icon/brainbooster.png" />
+      <img src="../images/icon/brainbooster.png" />
       <p>Building Concepts for Competitive Exams</p>
     </div>
   </a>
   <a href="#">
     <div className="s-card">
-      <img src="images/icon/online-tutorials.png" />
+      <img src="../images/icon/online-tutorials.png" />
       <p>Online Video Lectures</p>
     </div>
   </a>
   <a href="subjects/jee.html#sample_papers">
     <div className="s-card">
-      <img src="images/icon/papers.jpg" />
+      <img src="../images/icon/papers.jpg" />
       <p>Sample Papers of Various Competitive Exams</p>
     </div>
   </a>
   <a href="#">
     <div className="s-card">
-      <img src="images/icon/p3.png" />
+      <img src="../images/icon/p3.png" />
       <p>Performance and Ranking Report</p>
     </div>
   </a>
   <a href="#contactus_section">
     <div className="s-card">
-      <img src="images/icon/discussion.png" />
+      <img src="../images/icon/discussion.png" />
       <p>Discussion with Our Tutors &amp; Mentors</p>
     </div>
   </a>
@@ -56,7 +56,7 @@ const Services = () => {
   </a>
   <a href="#contactus_section">
     <div className="s-card">
-      <img src="images/icon/help.png" />
+      <img src="../images/icon/help.png" />
       <p>24x7 Online Support</p>
     </div>
   </a>

@@ -9,19 +9,19 @@ const Footer = () => {
       <div className="logo" />
       <div className="social-media">
         <a href="#">
-          <img src="images/icon\fb.png" />
+        <i class="fa-brands fa-facebook"style={{ color: "yellow" }} ></i>
         </a>
         <a href="#">
-          <img src="images/icon\insta.png" />
+        <i class="fa-brands fa-instagram"></i>
         </a>
         <a href="#">
-          <img src="images/icon\tt.png" />
+        <i class="fa-brands fa-twitter"></i>
         </a>
         <a href="#">
-          <img src="images/icon\ytube.png" />
+        <i class="fa-brands fa-youtube"></i>
         </a>
         <a href="#">
-          <img src="images/icon\linkedin.png" />
+        <i class="fa-brands fa-linkedin"></i>
         </a>
       </div>
       <br />
@@ -32,15 +32,15 @@ const Footer = () => {
       </p>
       <br />
       <p>
-        <img src="images/icon/location.png" /> RDR Tutorial Home
+      <i class="fa-solid fa-location-dot"></i> RDR Tutorial Home
         <br />
         Near Airport, Guwahati
       </p>
       <br />
       <p>
-        <img src="images/icon/phone.png" /> +91 97067 86103
+      <i class="fa-solid fa-phone"></i> +91 97067 86103
         <br />
-        <img src="images/icon/mail.png" />
+        <i class="fa-solid fa-envelope"></i>
         &nbsp; abhijitmaxxim@gmail.com
       </p>
     </div>

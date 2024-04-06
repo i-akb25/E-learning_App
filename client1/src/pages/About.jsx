@@ -9,7 +9,7 @@ const About = () => {
   </center>
   <div className="about-content">
     <div className="side-image">
-      <img className="sideImage" src="images/extra/e3.jpg" />
+      <img className="sideImage" src="./images/extra/e3.jpg" alt="" />
     </div>
     <div className="side-text">
       <h2>What you think about us ?</h2>

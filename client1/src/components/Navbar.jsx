@@ -1,12 +1,16 @@
 import React from 'react'
 
+
 const Navbar = () => {
     return (
         <>
             <header id="header">
                 <nav>
+                    <div>
                     <div className="logo">
-                        <p>RDR HOME TUTORIAL</p>
+                      <img src="./images/icon/play.png" alt="" />   
+                    </div>
+                    <p>ADHAYAN</p>
                     </div>
                     <ul>
                         <li>
@@ -53,7 +57,7 @@ const Navbar = () => {
                             research!
                         </h5>
                         <div className="play">
-                            <img src="../images/icon/play.png" alt="play" />
+                            <img src="https://tse1.mm.bing.net/th?id=OIP.z4ejyN7gKWRpAJyUVQrpiAHaHa&pid=Api&P=0&h=180g" alt="play" />
                             <span>
                                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
                                     Watch Now 

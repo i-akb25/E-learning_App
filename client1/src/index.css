@@ -12,7 +12,8 @@
 * {
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	padding: 0
+  ;
 }
 
 html {
@@ -845,6 +846,72 @@ footer .btn {
 footer .btn:hover {
 	opacity: .7;
 }
+
+/* COURSES STARTS HERE*/
+.courses {
+  text-align: center;
+}
+.course-container {
+  max-width: 85%;
+  margin: auto;
+}
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 10px;
+}
+.courses .box {
+  box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+  background-color: #fff;
+  padding: 30px 20px;
+  transition: 0.5s;
+}
+.courses .img {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+  position: relative;
+}
+.courses img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.courses h1 {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 20px 0;
+  line-height: 30px;
+}
+.courses span {
+  background-color: #f8f8f8;
+  padding: 5px 20px;
+  font-weight: 500;
+  font-size: 15px;
+  color: #1eb2a6;
+  border-radius: 5px;
+}
+.courses .box .show {
+  opacity: 0;
+}
+.courses .box:hover {
+  background-color: #c3195d;;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.courses .box:hover .show {
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.courses .box:hover h1 {
+  color: #fff;
+}
+/*-------------online---------*/
+@media screen and (max-width: 768px) {
+}
+/* COURSES ENDS HERE*/
 
 /*PROPERTIES FOR MAKING WEBSITE RESPONSIVE*/
 @media screen and (max-width: 960px) {

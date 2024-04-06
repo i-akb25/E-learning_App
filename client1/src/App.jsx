@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar';
-import About from './pages/About';
+import About from './components/About';
 import Team from './components/Team';
 import Services from './components/Services';
 import ReviewByStud from './components/ReviewByStud';

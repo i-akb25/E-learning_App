@@ -7,10 +7,10 @@ const Navbar = () => {
             <header id="header">
                 <nav>
                     <div>
-                    <div className="logo">
-                      <img src="./images/icon/play.png" alt="" />   
-                    </div>
-                    <p>ADHAYAN</p>
+                        <div className="logo">
+                            <img src="./images/icon/play.png" alt="" />
+                        </div>
+                        <p>ADHAYAN</p>
                     </div>
                     <ul>
                         <li>
@@ -18,7 +18,7 @@ const Navbar = () => {
                                 Home
                             </a>
                         </li>
-                        
+
                         <li>
                             <a href="#contactus_section">Study-materials</a>
                         </li>
@@ -31,7 +31,7 @@ const Navbar = () => {
                         <li>
                             <a href="#contactus_section">Know Yourself</a>
                         </li>
-                        
+
                     </ul>
                     <div className="srch">
                         <input type="text" className="search" placeholder="Search here..." />
@@ -60,7 +60,7 @@ const Navbar = () => {
                             <img src="https://tse1.mm.bing.net/th?id=OIP.z4ejyN7gKWRpAJyUVQrpiAHaHa&pid=Api&P=0&h=180g" alt="play" />
                             <span>
                                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-                                    Watch Now 
+                                    Watch Now
                                 </a>
                             </span>
                         </div>

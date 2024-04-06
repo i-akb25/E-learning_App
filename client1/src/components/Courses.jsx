@@ -88,7 +88,6 @@ const Courses = () => {
                             <h1>CSE</h1>
                             <span>5 Courses</span>
                         </div>
-
                     </div>
                 </div>
             </section>

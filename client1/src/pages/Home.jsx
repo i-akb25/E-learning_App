@@ -8,18 +8,18 @@ import Services from '../components/Services'
 import ReviewByStud from '../components/ReviewByStud'
 import Feedback from '../components/Feedback'
 const Home = () => {
-  return (
-    <div>
-        <Header/>
-      <Courses/>
-      <About/>
-      <Team/>
-      <Services/>
-      <ReviewByStud/>
-      <ContactUs/>
-      <Feedback/>
-    </div>
-  )
+    return (
+        <div>
+            <Header />
+            <Courses />
+            <About />
+            <Team />
+            <Services />
+            <ReviewByStud />
+            <ContactUs />
+            <Feedback />
+        </div>
+    )
 }
 
 export default Home

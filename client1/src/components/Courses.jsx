@@ -7,11 +7,9 @@ const Courses = () => {
 
                     <center>
                         <p
-<<<<<<< HEAD
-                            style={{ fontSize: 50, padding: 100, paddingBottom: 40, color: "bl" }}
-=======
-                            style={{ fontSize: 50, padding: 100, paddingBottom: 40, color: "#fff" }}
->>>>>>> a1e4e3fcefcae59881435ef1353b5f7693273434
+
+                            style={{ fontSize: 50, padding: 100, paddingBottom: 40, color: "black" }}
+
                         >
                             Services
                         </p>

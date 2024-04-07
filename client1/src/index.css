@@ -324,7 +324,7 @@ a, button {
 	border-radius: 5px;
 	text-align: justify;
 	line-height: 22px;
-	opacity: 0;
+	opacity: 1;
 	transform: translateX(-100px);
 	transition: 1s ease-in-out;
 }
@@ -344,7 +344,7 @@ a, button {
 }
 .sideImage {
 	transform: translateX(100px);
-	opacity: 0;
+	opacity: 1;
 	transition: .8s ease-in-out;
 }
 .sideImage-appear {

@@ -7,7 +7,9 @@ const Navbar = () => {
             <header id="header">
                 <nav>
                     <div className="logo">
-                        <p>Adhayan</p>
+
+                        <p>ADHAYAN</p>
+
                     </div>
                     <ul>
                         <li>
